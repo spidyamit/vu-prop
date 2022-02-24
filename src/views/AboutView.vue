@@ -31,7 +31,7 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="about-img-box">
-            <img src="img/slide-about-1.jpg" alt="" class="img-fluid">
+            <img src="@public/img/slide-about-1.jpg" alt="" class="img-fluid">
           </div>
           <div class="sinse-box">
             <h3 class="sinse-title">EstateAgency
@@ -43,7 +43,7 @@
         <div class="col-md-12 section-t8">
           <div class="row">
             <div class="col-md-6 col-lg-5">
-              <img src="img/about-2.jpg" alt="" class="img-fluid">
+              <img src="@public/img/about-2.jpg" alt="" class="img-fluid">
             </div>
             <div class="col-lg-2  d-none d-lg-block">
               <div class="title-vertical d-flex justify-content-start">
@@ -93,7 +93,7 @@
         <div class="col-md-4">
           <div class="card-box-d">
             <div class="card-img-d">
-              <img src="img/agent-7.jpg" alt="" class="img-d img-fluid">
+              <img src="@public/img/agent-7.jpg" alt="" class="img-d img-fluid">
             </div>
             <div class="card-overlay card-overlay-hover">
               <div class="card-header-d">
@@ -152,7 +152,7 @@
         <div class="col-md-4">
           <div class="card-box-d">
             <div class="card-img-d">
-              <img src="img/agent-6.jpg" alt="" class="img-d img-fluid">
+              <img src="@public/img/agent-6.jpg" alt="" class="img-d img-fluid">
             </div>
             <div class="card-overlay card-overlay-hover">
               <div class="card-header-d">
@@ -211,7 +211,7 @@
         <div class="col-md-4">
           <div class="card-box-d">
             <div class="card-img-d">
-              <img src="img/agent-5.jpg" alt="" class="img-d img-fluid">
+              <img src="@public/img/agent-5.jpg" alt="" class="img-d img-fluid">
             </div>
             <div class="card-overlay card-overlay-hover">
               <div class="card-header-d">

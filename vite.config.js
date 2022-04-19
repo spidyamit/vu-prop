@@ -14,4 +14,4 @@ export default defineConfig({
     }
   }
 })
-publicPath: './'
+publicPath: '/vu-prop/'
